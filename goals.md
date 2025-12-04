@@ -1,0 +1,3 @@
+- I want to become more confident with basic tesc skills in the next few months.
+- I plan to finish a few small projects so I can build a stronger understanding.
+- I want to get comfortable using Git and GitHub regularly and learn how people work together on code.
